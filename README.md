@@ -1,1 +1,1 @@
-# EECS471
+This repo is a backup of UMich EECS471 assignments and project. Students from UMich should obey the Honor Code when accessing this repo. 
